@@ -57,9 +57,10 @@ Passionate developer who loves building software, exploring AI, and creating cle
 ![](https://github-profile-trophy.vercel.app/?username=dhairyamittal28106-alt&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-
-## 🐶 Coding Buddy
 ## 🐶 Pixel Dog Contributions
+
+<img src="https://raw.githubusercontent.com/dhairyamittal28106-alt/dog-contribution/main/dist/dog.svg" />
+
 
 ![Dog Animation](https://raw.githubusercontent.com/dhairyamittal28106-alt/dog-contribution/main/dist/dog.svg)
 
