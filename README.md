@@ -62,11 +62,6 @@ Passionate developer who loves building software, exploring AI, and creating cle
 <img src="https://raw.githubusercontent.com/dhairyamittal28106-alt/dog-contribution/main/dist/dog.svg" />
 
 
-![Dog Animation](https://raw.githubusercontent.com/dhairyamittal28106-alt/dog-contribution/main/dist/dog.svg)
-
-
-
----
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
