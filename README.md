@@ -59,8 +59,11 @@ Passionate developer who loves building software, exploring AI, and creating cle
 ---
 
 ## 🐶 Coding Buddy
+## 🐶 Pixel Dog Contributions
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
+![Dog Animation](https://raw.githubusercontent.com/dhairyamittal28106-alt/dog-contribution/main/dist/dog.svg)
+
+
 
 ---
 
