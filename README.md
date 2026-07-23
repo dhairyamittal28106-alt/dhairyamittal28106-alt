@@ -1,76 +1,94 @@
-<!-- ============================== -->
-<!--      MODERN GITHUB README      -->
-<!-- ============================== -->
+<!-- ========================================================= -->
+<!--                    DHAIRYA MITTAL                         -->
+<!--          Modern 2026 Premium GitHub Profile               -->
+<!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6C63FF,50:7F5AF0,100:00D4FF&text=Dhairya%20Mittal&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,50:7F5AF0,100:00D4FF&text=Dhairya%20Mittal&fontColor=ffffff&fontSize=62&animation=twinkling&fontAlignY=38"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI+Enthusiast;Flutter+Developer;Open+Source+Contributor;Building+Products+That+Matter"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=30&pause=1000&duration=3500&center=true&vCenter=true&width=900&color=7F5AF0&lines=Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Flutter+Developer;Open+Source+Contributor;Building+Products+That+Matter"/>
 </p>
 
-<div align="center">
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhairyamittal)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dhairya_5312)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhairyamittal28106@gmail.com)
+<a href="https://tinyurl.com/Dhairya-Mittal-Tech">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-6C63FF?style=for-the-badge"/>
+</a>
 
-</div>
+<a href="https://linkedin.com/in/dhairyamittal">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/dhairya_5312">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:dhairyamittal28106@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 # 👋 About Me
 
-```yaml
-Name: Dhairya Mittal
-Role: Full Stack Developer
-Education: B.Tech Computer Science
-Interests:
-  - Artificial Intelligence
-  - Full Stack Development
-  - Flutter
-  - Cloud Computing
-  - Open Source
-Current Focus:
-  - Building scalable applications
-  - Exploring AI
-  - Learning new technologies
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Developer
+
+- 🎓 B.Tech Computer Science Student
+- 💙 Passionate about AI & Full Stack
+- 🚀 Loves building scalable products
+- 🌱 Constantly learning new technologies
+- 🤝 Open to collaboration
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ Current Focus
+
+- 🤖 Artificial Intelligence
+- 🌐 Modern Web Development
+- 📱 Flutter Apps
+- ☁️ Cloud Technologies
+- 🛠️ Open Source Contributions
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 🚀 Tech Stack
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,go,dart,flutter,react,nodejs,flask,pytorch,opencv,aws,gcp,git,github,vscode,linux&perline=9"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,go,dart,flutter,react,nodejs,flask,pytorch,opencv,aws,gcp,git,github,vscode,linux&perline=10"/>
 
-</div>
-
----
-
-# 🌟 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 📱 Nexus | Modern social networking platform |
-| 📂 ShareDrop | Secure P2P file & text sharing |
-| 🚦 Smart Traffic System | AI-based traffic monitoring |
-| 👕 eTryRoom | Virtual AI Try-On experience |
-| 🌐 Portfolio Website | Personal portfolio showcasing projects & skills |
+</p>
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhairyamittal28106-alt&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhairyamittal28106-alt&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhairyamittal28106-alt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=dhairyamittal28106-alt&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyamittal28106-alt&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyamittal28106-alt&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -78,51 +96,89 @@ Current Focus:
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhairyamittal28106-alt&theme=tokyo-night&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhairyamittal28106-alt&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 📋 Profile Summary
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dhairyamittal28106-alt/dhairyamittal28106-alt/output/github-contribution-grid-snake-dark.svg"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhairyamittal28106-alt&theme=tokyonight"/>
+
 </p>
 
-> **Note:** The snake animation requires a GitHub Action to generate it.
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhairyamittal28106-alt&theme=tokyonight" width="49%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhairyamittal28106-alt&theme=tokyonight" width="49%"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhairyamittal28106-alt&theme=tokyonight" width="49%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhairyamittal28106-alt&theme=tokyonight&utcOffset=5.5" width="49%"/>
+
+</p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📅 Contribution Calendar
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhairyamittal28106-alt&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true"/>
+
+<img src="https://ghchart.rshah.org/dhairyamittal28106-alt"/>
+
 </p>
 
 ---
 
-# 💬 Random Dev Quote
+# ⚡ GitHub Metrics
+
+> **Requires the GitHub Metrics Action to be configured.**
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+<img src="https://metrics.lecoq.io/dhairyamittal28106-alt?template=classic&base.header=0&base.activity=1&base.community=1&languages=1&isocalendar=1&followup=1&repositories=100"/>
+
 </p>
+
+---
+
+# 🧠 Currently Exploring
+
+```text
+🟣 Artificial Intelligence
+🔵 Machine Learning
+🟢 Flutter
+🟡 Cloud Computing
+🟠 Backend Architecture
+```
 
 ---
 
 # 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhairyamittal28106-alt&style=for-the-badge&color=6C63FF"/>
+
+<img src="https://komarev.com/ghpvc/?username=dhairyamittal28106-alt&label=Profile%20Views&style=for-the-badge&color=7F5AF0"/>
+
 </p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-### ⭐ Thanks for visiting!
+### 💜 Thanks for stopping by!
 
-*"Code • Create • Learn • Repeat"*
+*"Great software is built one commit at a time."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:7F5AF0,100:00D4FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:6C63FF,50:7F5AF0,100:00D4FF"/>
 
-</div>
+</p>
