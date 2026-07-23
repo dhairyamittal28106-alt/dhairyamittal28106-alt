@@ -1,35 +1,49 @@
 <!-- ========================================================= -->
 <!--                    DHAIRYA MITTAL                         -->
-<!--          Modern 2026 Premium GitHub Profile               -->
+<!--                  Modern GitHub Profile                    -->
 <!-- ========================================================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,50:7F5AF0,100:00D4FF&text=Dhairya%20Mittal&fontColor=ffffff&fontSize=62&animation=twinkling&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6C63FF,50:7F5AF0,100:00D4FF&text=Dhairya%20Mittal&fontColor=ffffff&fontSize=62&animation=twinkling&fontAlignY=38"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=30&pause=1000&duration=3500&center=true&vCenter=true&width=900&color=7F5AF0&lines=Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Flutter+Developer;Open+Source+Contributor;Building+Products+That+Matter"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=30&pause=1000&duration=3500&center=true&vCenter=true&width=900&color=7F5AF0&lines=Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Flutter+Developer;Open+Source+Contributor;Building+Modern+Software"/>
 </p>
 
 <p align="center">
-
-<a href="https://tinyurl.com/Dhairya-Mittal-Tech">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-6C63FF?style=for-the-badge"/>
-</a>
-
-<a href="https://linkedin.com/in/dhairyamittal">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/dhairya_5312">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:dhairyamittal28106@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  Passionate about building scalable software, exploring AI, and creating clean user experiences.
 </p>
+
+<p align="center">
+  <a href="https://tinyurl.com/Dhairya-Mittal-Tech">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-18181B?style=flat-square&logo=vercel&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/dhairyamittal">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="28"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/dhairya_5312">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="28"/>
+  </a>
+  &nbsp;
+  <a href="mailto:dhairyamittal28106@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="28"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/dhairyamittal28106-alt">
+    <img src="https://cdn.simpleicons.org/github/ffffff" height="28"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhairyamittal28106-alt&label=Profile+Views&color=7F5AF0&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/dhairyamittal28106-alt?style=flat-square&logo=github&color=7F5AF0"/>
+  <img src="https://img.shields.io/github/stars/dhairyamittal28106-alt?affiliations=OWNER&style=flat-square&color=7F5AF0"/>
+</p>
+
+---
 
 ---
 
@@ -139,17 +153,6 @@
 
 ---
 
-# ⚡ GitHub Metrics
-
-> **Requires the GitHub Metrics Action to be configured.**
-
-<p align="center">
-
-<img src="https://metrics.lecoq.io/dhairyamittal28106-alt?template=classic&base.header=0&base.activity=1&base.community=1&languages=1&isocalendar=1&followup=1&repositories=100"/>
-
-</p>
-
----
 
 # 🧠 Currently Exploring
 
