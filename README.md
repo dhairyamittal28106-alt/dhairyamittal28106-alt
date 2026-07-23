@@ -79,7 +79,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,go,dart,flutter,react,nodejs,flask,pytorch,opencv,aws,numpy,pandas,matplotlib,linux,github,vscode,linux&perline=10"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,go,dart,flutter,react,nodejs,flask,pytorch,opencv,aws,github,vscode,linux&perline=10"/>
 
 </p>
 
