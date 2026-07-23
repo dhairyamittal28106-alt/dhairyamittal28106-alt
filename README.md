@@ -1,71 +1,144 @@
-# 👋 Hi, I'm Dhairya Mittal  
+<!-- ============================== -->
+<!--      MODERN GITHUB README      -->
+<!-- ============================== -->
 
-Passionate developer who loves building software, exploring AI, and creating clean user experiences.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6C63FF,50:7F5AF0,100:00D4FF&text=Dhairya%20Mittal&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38"/>
+</p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI+Enthusiast;Flutter+Developer;Open+Source+Contributor;Building+Products+That+Matter"/>
+</p>
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhairya_5312)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhairyamittal)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhairyamittal28106@gmail.com)
+<div align="center">
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhairyamittal)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dhairya_5312)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhairyamittal28106@gmail.com)
 
-# 💻 Tech Stack
-
-### 🧠 Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-
-### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
-### 🤖 AI / Computer Vision
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
-
-### ☁️ Cloud
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-![Command Line](https://img.shields.io/badge/CMD-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)
+</div>
 
 ---
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=dhairyamittal28106-alt&theme=dark&hide_border=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dhairyamittal28106-alt&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyamittal28106-alt&theme=dark&hide_border=false&layout=compact)
+# 👋 About Me
+
+```yaml
+Name: Dhairya Mittal
+Role: Full Stack Developer
+Education: B.Tech Computer Science
+Interests:
+  - Artificial Intelligence
+  - Full Stack Development
+  - Flutter
+  - Cloud Computing
+  - Open Source
+Current Focus:
+  - Building scalable applications
+  - Exploring AI
+  - Learning new technologies
+```
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dhairyamittal28106-alt&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+# 🚀 Tech Stack
 
----
-## Contributions
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/dhairyamittal28106-alt/dog-contribution/main/dist/dog.svg" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,go,dart,flutter,react,nodejs,flask,pytorch,opencv,aws,gcp,git,github,vscode,linux&perline=9"/>
 
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=dhairyamittal28106-alt&icon=0&color=0)](https://visitcount.itsvg.in)
+# 🌟 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🚀 ScholarX | AI-powered internship & skill platform |
+| 📱 Nexus | Modern social networking platform |
+| 📂 ShareDrop | Secure P2P file & text sharing |
+| 🚦 Smart Traffic System | AI-based traffic monitoring |
+| 👕 eTryRoom | Virtual AI Try-On experience |
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhairyamittal28106-alt&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhairyamittal28106-alt&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyamittal28106-alt&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhairyamittal28106-alt&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/dhairyamittal28106-alt/dhairyamittal28106-alt/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+> **Note:** This snake animation requires a GitHub Action to generate. Until you set it up, this image won't appear.
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dhairyamittal28106-alt&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true"/>
+
+</p>
+
+---
+
+# 💬 Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=dhairyamittal28106-alt&style=for-the-badge&color=6C63FF"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting!
+
+*"Code. Learn. Build. Repeat."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:7F5AF0,100:00D4FF&height=120&section=footer"/>
+
+</div>
