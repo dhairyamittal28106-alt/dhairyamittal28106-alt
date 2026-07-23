@@ -17,33 +17,31 @@
 
 <p align="center">
   <a href="https://tinyurl.com/Dhairya-Mittal-Tech">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-18181B?style=flat-square&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/dhairyamittal">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="28"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30"/>
   </a>
   &nbsp;
   <a href="https://instagram.com/dhairya_5312">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="28"/>
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="30"/>
   </a>
   &nbsp;
   <a href="mailto:dhairyamittal28106@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="28"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="30"/>
   </a>
   &nbsp;
   <a href="https://github.com/dhairyamittal28106-alt">
-    <img src="https://cdn.simpleicons.org/github/ffffff" height="28"/>
+    <img src="https://cdn.simpleicons.org/github/ffffff" height="30"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhairyamittal28106-alt&label=Profile+Views&color=7F5AF0&style=flat-square"/>
-  <img src="https://img.shields.io/github/followers/dhairyamittal28106-alt?style=flat-square&logo=github&color=7F5AF0"/>
-  <img src="https://img.shields.io/github/stars/dhairyamittal28106-alt?affiliations=OWNER&style=flat-square&color=7F5AF0"/>
+  <img src="https://komarev.com/ghpvc/?username=dhairyamittal28106-alt&label=Profile%20Views&style=flat-square&color=7F5AF0"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/dhairyamittal28106-alt?label=Followers&style=flat-square&logo=github"/>
 </p>
-
----
 
 ---
 
