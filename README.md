@@ -113,31 +113,33 @@
 
 ---
 
-# 📋 Profile Summary
+# 📊 GitHub Overview
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhairyamittal28106-alt&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhairyamittal28106-alt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=dhairyamittal28106-alt&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhairyamittal28106-alt&theme=tokyonight" width="49%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhairyamittal28106-alt&theme=tokyonight" width="49%"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyamittal28106-alt&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhairyamittal28106-alt&theme=tokyonight" width="49%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhairyamittal28106-alt&theme=tokyonight&utcOffset=5.5" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhairyamittal28106-alt&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
----
+<p align="center">
+
+<img src="https://ghchart.rshah.org/dhairyamittal28106-alt"/>
+
+</p>
 
 # 📅 Contribution Calendar
 
