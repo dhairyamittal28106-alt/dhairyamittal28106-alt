@@ -1,23 +1,23 @@
 ```text
-           .:lodxxxxxdol:.          dhairya@dev ---------------------------------------------------
-        .cxO00kxxxxxxk000Oxc.       . OS: ....................... Kali Linux, Windows 11, Android 16
-      .oO0kxdollcccccllodxk0Oo.     . Uptime: .................................. 20 years, 12 days
-     cx0koc:;,'.......',;:cok0xc    . Host: ........................... ScholarX Technologies / CSE
-    lk0o:,'.....'''''.....',:o0kl   . Kernel: ...................... AI, Full-Stack & CyberSec Eng.
-   ck0o'..';clodddddddolc;'..'o0kc  . IDE: ................ VS Code, Antigravity IDE, Android Studio
-  .d0x;..:dxkOOOOOOOOOOOOOkxd:.;x0d 
-  .O0c..lk0000000000000000000kl..c0O. Languages.Programming: .... Python, C++, Dart, Java, C, JS/TS
-  ,00:.;O0000000000000000000000;.:00, Frameworks.Libraries: ..... Flutter, OpenCV, MediaPipe, PyTorch
-  ;00:.o00000000000000000000000o.:00; Databases.Tools: .......... Firebase, SQL, Redis, Git, Linux
-  .O0c.'x000000000000000000000x'..c0O
-  .d0x;..cxO000000000000000Oxc..;x0d. Interests.Core: ............ Artificial Intelligence, App Dev
-   ck0o'..';clodddddddddolc;'..'o0kc. Hobbies.Tech: .............. Socket Telemetry, Reverse Eng.
-    lk0o:,'.....'''''''''.....',:o0kl 
-     cx0koc:;,'.......'',;:cok0xc   - Contact -----------------------------------------------------
-      .oO0kxdollccccccllodxk0Oo.    . Portfolio: ........ [https://tinyurl.com/Dhairya-Mittal-Tech](https://tinyurl.com/Dhairya-Mittal-Tech)
-        .cxO00kxxxxxxk000Oxc.       . Email: ....................... dhairyamittal28106@gmail.com
-           .:lodxxxxxdol:.          . LinkedIn: ....................... [linkedin.com/in/dhairyamittal](https://linkedin.com/in/dhairyamittal)
-                                    . GitHub: ........................ [github.com/dhairyamittal28106-alt](https://github.com/dhairyamittal28106-alt)
+         .::---::.          dhairya@dev --------------------------------------------
+       .+#%%%%%%%%#+.       . OS: ................. Kali Linux, Windows 11, Android
+      -#%*+======+*%#-      . Uptime: ........................... 20 yrs, 12 days
+     =%#=  :++++:  =#%=     . Host: .................... ScholarX Tech / B.Tech CSE
+    .#%*  +######+  *%#.    . Kernel: ................ AI & Cybersecurity Engineer
+    -%#   ########   #%-    . IDE: ................... VS Code, Antigravity, Studio
+    :%#   ########   #%:    
+    .#%*  +######+  *%#.    . Languages.Core: ........ Python, C++, Dart, Java, C
+     =%#=  '::::'  =#%=     . Frameworks: ............ Flutter, OpenCV, MediaPipe
+      -#%*+======+*%#-      . Cloud/DB: .............. Firebase, SQL, Redis, Linux
+     ..:=+*######*+=:..     
+   .+#%*-.  .::.  .-*%#+.   . Tech.Interests: ........ Machine Learning, Computer Vision
+  :%#=.    .####.    .=#%:  . Tech.Hobbies: .......... Telemetry, Reverse Engineering
+ -%#       ######       #%- 
+ :%#      .######.      #%: - Contact ----------------------------------------------
+ .%#       .####.       #%. . Portfolio: .................... [tinyurl.com/dm-tech](https://tinyurl.com/dm-tech)
+  +%#-       ::       -#%+  . Email: ................. dhairyamittal28106@gmail.com
+   :=*#*+==========+*#*=:   . LinkedIn: ................... in/dhairyamittal
+        '----------'        . GitHub: ..................... dhairya28106-alt
 ```
 
 <p align="center">
