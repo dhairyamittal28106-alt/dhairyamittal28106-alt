@@ -155,20 +155,25 @@
 🟢 Flutter
 🟡 Cloud Computing
 🟠 Backend Architecture
+```
 
 # 👀 Profile Views
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=dhairyamittal28106-alt&label=Profile%20Views&style=for-the-badge&color=7F5AF0"/>
-
+  <img src="https://komarev.com/ghpvc/?username=dhairyamittal28106-alt&label=Profile%20Views&style=for-the-badge&color=7F5AF0" alt="Profile Views" />
 </p>
 
-<p align="center">
+<div align="center">
 
 ### 💜 Thanks for stopping by!
 
 *"Great software is built one commit at a time."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:6C63FF,50:7F5AF0,100:00D4FF" alt="Footer wave" />
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:6C63FF,50:7F5AF0,100:00D4FF"/>
 
